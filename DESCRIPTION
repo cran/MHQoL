@@ -1,6 +1,6 @@
 Package: MHQoL
 Title: Mental Health Quality of Life Toolkit
-Version: 0.12.0
+Version: 0.13.0
 Authors@R: c(
     person("Stijn", "Peeters", email = "s.b.peeters@eshpm.eur.nl", role = c("aut", "cre"),comment = c(ORCID = "0009-0004-3684-3584")),
     person("Frederick", "Thielen", email = "thielen@eshpm.eur.nl", role = c("aut"), comment = c(ORCID = "0000-0002-0312-5891")))
@@ -15,9 +15,9 @@ Imports: dplyr (>= 1.1.4), assertthat (>= 0.2.1), tidyr (>= 1.3.0),
 Suggests: here, stats, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-02-28 11:20:03 UTC; 85304spe
+Packaged: 2025-03-11 11:08:26 UTC; 85304spe
 Author: Stijn Peeters [aut, cre] (<https://orcid.org/0009-0004-3684-3584>),
   Frederick Thielen [aut] (<https://orcid.org/0000-0002-0312-5891>)
 Maintainer: Stijn Peeters <s.b.peeters@eshpm.eur.nl>
 Repository: CRAN
-Date/Publication: 2025-03-04 10:00:02 UTC
+Date/Publication: 2025-03-11 15:20:05 UTC

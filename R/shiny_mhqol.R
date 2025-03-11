@@ -19,7 +19,7 @@ shiny_mhqol <- function(display.mode = "normal") {
   if (interactive()) {
     # List of required packages
     pkgs <- c(
-      "shiny", "tidyverse", "DT", "writexl", "mhqol",
+      "shiny", "tidyverse", "DT", "writexl", "MHQoL",
       "fmsb", "here", "shinyalert"
     )
 
@@ -38,9 +38,9 @@ shiny_mhqol <- function(display.mode = "normal") {
     }
 
     # Locate and run the Shiny app
-    app_dir <- system.file("shiny", package = "mhqol")
+    app_dir <- system.file("shiny", package = "MHQoL")
     if (app_dir == "") {
-      stop("Shiny app directory not found in the 'mhqol' package.", call. = FALSE)
+      stop("Shiny app directory not found in the 'MHQoL' package.", call. = FALSE)
     }
 
     shiny::runApp(app_dir, display.mode = display.mode)
