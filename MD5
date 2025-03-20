@@ -1,7 +1,7 @@
-8ff339bb842eb9d383e4b3c8949b9d3f *DESCRIPTION
+5a7255fd09b47f7cacfb7f6b69657c9b *DESCRIPTION
 fbcea4a6075b1dbdcffa84b63049a767 *LICENSE
 043a9fbcccbe09cb50b9799461eb9d9e *NAMESPACE
-b38cc275ca734748ef80510fe8c61eb2 *NEWS.md
+7117f71648a6c06a80eac45c031d657a *NEWS.md
 bdfe35386f43609cb8e24d0c4360b0d2 *R/mhqol.R
 32d04feea053186e6668c814d71bfc2a *R/mhqol_LSS.R
 a1a153a80e507ad4ea3061b4a0c08800 *R/mhqol_scores_to_states.R
@@ -17,7 +17,7 @@ f51e744ac682dec65bfda4fd5d6078b2 *R/utils.R
 38a16b79520d169deb5eb1acea36832c *inst/extdata/example_data_scores.xlsx
 bdc23d531eecf17589119e0f5c8e4e1f *inst/extdata/example_data_text.xlsx
 223a86d1ad971bf096be493b1b0428d9 *inst/extdata/example_data_utilities.xlsx
-736fe1d74a21590a66ed3b21f233a458 *inst/shiny/app.R
+822eb2141cc3484d79678d693ce9e85f *inst/shiny/app.R
 2490810205d2e8fefb3c8099e4f18056 *inst/shiny/www/images/icon-excel.png
 c790c9e4185d457b504630245c3239c9 *man/mhqol.Rd
 a0d809517a4ba25f5cfa0b32f056a98e *man/mhqol_LSS.Rd
